@@ -17,6 +17,14 @@ When in doubt, don't.
 ###Acronyms
 Set **in capitals**. Thus: DPWH for Department of Public Works and Highways, VAT for value-added tax, OPASCOR for Oriental Port and Allied Services Corporation, or CITOM for Cebu City Traffic Operations Management,
 
+###accent marks
+Do not use accent marks like **café** because they can cause garbled text when repurposing the content.
+
+###advice *(noun)*, advise *(verb)*
+
+###adviser *not advisor*
+
+###aid *(assistance)*; aide *(person)*
 
 ###Associated Labor Unions  
 with an s
