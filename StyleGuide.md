@@ -6,16 +6,20 @@
 
 When in doubt, don't.
 
-1) Do not abbreviate streets, boulevard, avenue, drive, and road.
+1) Do not abbreviate **Street**, **Boulevard**, **Avenue**, **Drive**, and **Road**.
 
-2) Use Mr., Mrs., Ms., Dr.
+2) Use **Mr.**, **Mrs.**, **Ms.**, **Dr.**
 
-3) Do not abbreviate position titles (e.g. Governor, Mayor, Senator, Representative), except in headlines.
+3) Do not abbreviate position titles (e.g. **Governor**, **Mayor**, **Senator**, **Representative**), except in headlines.
 
-2)
+4) Use **a.m.**, **p.m.** but only with specific dates.
+
+###Acronyms
+Set **in capitals**. Thus: DPWH for Department of Public Works and Highways, VAT for value-added tax, OPASCOR for Oriental Port and Allied Services Corporation, or CITOM for Cebu City Traffic Operations Management,
+
 
 ###Associated Labor Unions  
-with an S
+with an s
 
 ###avail (object) of  
 
